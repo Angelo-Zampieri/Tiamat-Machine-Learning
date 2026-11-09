@@ -2,7 +2,7 @@
 
 **Projeto final da disciplina ATP-203 — Aprendizado de Máquina**
 
-**Autor(es):** _[nome(s) do(s) autor(es)]_  
+**Autor(es):** Angelo Quadros Zampieri
 **Instituição:** Ilum Escola de Ciência  
 **Professor:** Daniel R. Cassar
 
